@@ -3,5 +3,5 @@ web:
   ports:
     - "8020:80"
   volumes:
-    - ../docs:/var/www/html
+    - ../:/var/www/html
   tty: true
