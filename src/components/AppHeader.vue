@@ -15,7 +15,7 @@ export default {
 
 <style scoped>
 header.jumbotron {
-  background:linear-gradient(45deg, rgba(150,50,150,0.9), rgba(10,180,150,0.9)), url("../assets/img/header.png");
+  background:linear-gradient(45deg, rgba(150,50,150,0.9), rgba(10,180,150,0.9)), url("/static/img/header.png");
   background-color:#000;
   background-position: center center;
   background-size: cover;
